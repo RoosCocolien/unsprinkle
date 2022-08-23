@@ -60,6 +60,10 @@ const Tag = styled.li`
   font-size: 0.875rem;
   font-weight: 475;
   color: var(--color-gray-800);
+  max-width: 100%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 `
 
 export default PhotoGridItem

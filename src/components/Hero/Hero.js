@@ -23,7 +23,7 @@ const Hero = () => {
         />
         <HeroImage
           src='/images/hero-img.jpg'
-          alt='A cat with blue eyes looking straight at you against a black background'
+          alt='An example: A cat with blue eyes looking straight at you against a black background'
         />
       </picture>
       <Swoop src='/swoop.svg' alt='' />
